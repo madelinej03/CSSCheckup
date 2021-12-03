@@ -1,0 +1,48 @@
+.wrapper{
+    margin: 5px;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100px;
+    background-color: burlywood;
+    border: 3px dashed brown;
+}
+
+.lotsoftext {
+    height: 25vh;
+    width: 75%;
+    background-color: rosybrown;
+    border: 5px solid brown;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+dt {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+.background-one {
+    background-image: url(./sloth.jpeg);
+    color: burlywood;
+    padding: .5em 1em;
+    height: 15vh;
+    width: 74.5%;
+    border: 5px solid brown;
+    margin-top: 1em;
+}
+.positioning {
+    width: 75%;
+    background-color: burlywood;
+    border: 5px solid brown;
+    margin-bottom: 1em;
+}
+
+.positioning h1 {
+    text-align: center;
+}
